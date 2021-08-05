@@ -1,3 +1,6 @@
+<h1 align="center"> Marie Rivers </h1>
+<h2 align="center"> Student - Environmental Data Science, UC Santa Barbara </h2>
+
 ### Hi there 👋
 
 Currently an Environmental Data Science grad student at UC Santa Barbara
