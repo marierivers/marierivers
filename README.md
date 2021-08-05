@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 Currently an Environmental Data Science grad student at UC Santa Barbara
+
 Formeraly an environmental engineering consultant focused on modeling and designing water distribution systems
+
+Fun fact: I enjoy making homemade ice cream
 <!--
 **marierivers/marierivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
