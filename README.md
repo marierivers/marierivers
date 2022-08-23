@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Currently an Environmental Data Science grad student at UC Santa Barbara
+Recent graduate from the Environmental Data Science program at UC Santa Barbara
 
 Formerly an environmental engineering consultant focused on modeling and designing water distribution systems
 
